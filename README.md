@@ -10,8 +10,6 @@ Built for the **NASA Space Apps Challenge** by team **<Bushra Ashraf Bhatti>**.
 - **Demo slides (7 slides):** https://docs.google.com/presentation/d/1nBFrgbh5v5TczuTIJIpIrpWOaB1nCSig/edit?usp=sharing
 - **Source code:** https://github.com/YOURNAME/OrbitCareAI
 
-![Dashboard](docs/images/dashboard.png)
-
 ## Table of contents
 
 1. [Why OrbitCare AI](#why-orbitcare-ai)
@@ -53,26 +51,36 @@ should be explainable.
 ## Screenshots
 
 ### Dashboard
-![Dashboard] <img width="1410" height="858" alt="image" src="https://github.com/user-attachments/assets/36829321-e791-4571-a157-8f1f6837e3f5" />
-
+<img width="1410" height="858" alt="image" src="https://github.com/user-attachments/assets/36829321-e791-4571-a157-8f1f6837e3f5" />
 
 ### AI insight
-![AI insight](docs/images/ai-insight.png)
+
+<img width="1426" height="880" alt="image" src="https://github.com/user-attachments/assets/03bf44da-029a-4184-926b-caedfb342f6f" />
+
+<img width="1103" height="888" alt="image" src="https://github.com/user-attachments/assets/43621816-1afc-4218-9a7c-1583f98b6d32" />
 
 ### Crew alerts
-![Crew alerts](docs/images/crew-alerts.png)
+<img width="1077" height="848" alt="image" src="https://github.com/user-attachments/assets/f955be88-f566-49a4-a4ef-368ac1969590" />
+
+<img width="1142" height="852" alt="image" src="https://github.com/user-attachments/assets/274e03c2-d969-43fa-81a4-9e229f6a802d" />
 
 ### NASA crew check-in
-![NASA crew check-in](docs/images/crew-checkin.png)
+<img width="1138" height="825" alt="image" src="https://github.com/user-attachments/assets/1f7545cf-6625-41a3-a747-09f1772e6b2d" />
+
+<img width="1088" height="681" alt="image" src="https://github.com/user-attachments/assets/424ba28e-d1a2-4274-878a-83feca0a10d9" />
 
 ### My health (live)
-![My health](docs/images/my-health.png)
+<img width="1432" height="867" alt="image" src="https://github.com/user-attachments/assets/4ebf943e-345a-4272-82dc-6c3d2d136cff" />
+
+<img width="1442" height="853" alt="image" src="https://github.com/user-attachments/assets/ab0e516d-92d0-476f-a5cc-05c0e41b7d6e" />
+
+<img width="1443" height="896" alt="image" src="https://github.com/user-attachments/assets/c5100a03-b7ee-4770-820d-64964639bf1e" />
 
 ### My health result with AI explanation
-![My health result](docs/images/my-health-result.png)
+<img width="1447" height="636" alt="image" src="https://github.com/user-attachments/assets/e9586156-f030-4381-9351-7a18e9743c82" />
 
-### AI assistant
-![AI assistant](docs/images/assistant.png)
+### Explain with AI 
+<img width="1398" height="426" alt="image" src="https://github.com/user-attachments/assets/bf3d912a-98a6-4081-bbfb-9e587abf10af" />
 
 ## NASA data
 
