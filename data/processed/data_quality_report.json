@@ -1,0 +1,128 @@
+{
+  "metabolic": {
+    "available": true,
+    "samples": 28,
+    "columns": 58,
+    "numeric_columns": 57,
+    "text_columns_converted_to_numeric": 0,
+    "missing_cells": 81,
+    "missing_percent": 4.99,
+    "fully_empty_columns": 2,
+    "columns_over_20_percent_missing": {
+      "bun_to_creatinine_ratio_value": 78.6
+    },
+    "constant_columns": 30,
+    "duplicate_rows": 0,
+    "duplicate_sample_names": 0,
+    "samples_without_recognised_phase": 0,
+    "phase_counts": {
+      "L-92": 4,
+      "L-44": 4,
+      "L-3": 4,
+      "R+1": 4,
+      "R+45": 4,
+      "R+82": 4,
+      "R+194": 4
+    },
+    "crew_members": [
+      "C001",
+      "C002",
+      "C003",
+      "C004"
+    ],
+    "cleaned_file": "metabolic_clean.csv"
+  },
+  "cardiovascular": {
+    "available": true,
+    "samples": 28,
+    "columns": 19,
+    "numeric_columns": 18,
+    "text_columns_converted_to_numeric": 0,
+    "missing_cells": 0,
+    "missing_percent": 0.0,
+    "fully_empty_columns": 0,
+    "columns_over_20_percent_missing": {},
+    "constant_columns": 0,
+    "duplicate_rows": 0,
+    "duplicate_sample_names": 0,
+    "samples_without_recognised_phase": 0,
+    "phase_counts": {
+      "L-92": 4,
+      "L-44": 4,
+      "L-3": 4,
+      "R+1": 4,
+      "R+45": 4,
+      "R+82": 4,
+      "R+194": 4
+    },
+    "crew_members": [
+      "C001",
+      "C002",
+      "C003",
+      "C004"
+    ],
+    "cleaned_file": "cardiovascular_clean.csv"
+  },
+  "immune_eve": {
+    "available": true,
+    "samples": 28,
+    "columns": 143,
+    "numeric_columns": 142,
+    "text_columns_converted_to_numeric": 0,
+    "missing_cells": 0,
+    "missing_percent": 0.0,
+    "fully_empty_columns": 0,
+    "columns_over_20_percent_missing": {},
+    "constant_columns": 0,
+    "duplicate_rows": 0,
+    "duplicate_sample_names": 0,
+    "samples_without_recognised_phase": 0,
+    "phase_counts": {
+      "L-92": 4,
+      "L-44": 4,
+      "L-3": 4,
+      "R+1": 4,
+      "R+45": 4,
+      "R+82": 4,
+      "R+194": 4
+    },
+    "crew_members": [
+      "C001",
+      "C002",
+      "C003",
+      "C004"
+    ],
+    "cleaned_file": "immune_eve_clean.csv"
+  },
+  "immune_alamar": {
+    "available": true,
+    "samples": 27,
+    "columns": 407,
+    "numeric_columns": 406,
+    "text_columns_converted_to_numeric": 0,
+    "missing_cells": 0,
+    "missing_percent": 0.0,
+    "fully_empty_columns": 0,
+    "columns_over_20_percent_missing": {},
+    "constant_columns": 0,
+    "duplicate_rows": 0,
+    "duplicate_sample_names": 0,
+    "samples_without_recognised_phase": 0,
+    "phase_counts": {
+      "L-92": 4,
+      "L-44": 3,
+      "L-3": 4,
+      "R+1": 4,
+      "R+45": 4,
+      "R+82": 4,
+      "R+194": 4
+    },
+    "crew_members": [
+      "C001",
+      "C002",
+      "C003",
+      "C004"
+    ],
+    "cleaned_file": "immune_alamar_clean.csv"
+  }
+}
