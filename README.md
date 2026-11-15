@@ -3,7 +3,7 @@
 **Explainable astronaut health monitoring built on real NASA OSD-575 data.**
 Rules decide what is flagged. An LLM explains the results in plain language.
 
-Built for the **NASA Space Apps Challenge** by team **<your team name>**.
+Built for the **NASA Space Apps Challenge** by team **<Bushra Ashraf Bhatti>**.
 
 ## Demo
 
@@ -53,7 +53,8 @@ should be explainable.
 ## Screenshots
 
 ### Dashboard
-![Dashboard](docs/images/dashboard.png)
+![Dashboard] <img width="1410" height="858" alt="image" src="https://github.com/user-attachments/assets/36829321-e791-4571-a157-8f1f6837e3f5" />
+
 
 ### AI insight
 ![AI insight](docs/images/ai-insight.png)
